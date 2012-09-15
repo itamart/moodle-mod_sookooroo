@@ -32,5 +32,5 @@ $string['pluginname'] = 'Sookooroo';
 $string['room_help'] = 'The name of the "virtual room" to access from this resource.';
 $string['room'] = 'Room name';
 $string['sookooroo:addinstance'] = 'Add a new Sookooroo';
-$string['websiteid_help'] = 'The Web site id should be obtained from Sookooroo website <a href=\"www.sookooroo.com\">www.sookooroo.com</a>';
+$string['websiteid_help'] = 'The Website id with which the intended virtual room is associated. If you don\'t have a website id please refer to <a href=\'http://www.skrlive.com\'>http://www.skrlive.com</a> for obtaining it';
 $string['websiteid'] = 'Website ID';

@@ -24,7 +24,7 @@
 defined('MOODLE_INTERNAL') or die;
 
 $module->component = 'mod_sookooroo';
-$module->version = 2012090100;
-$module->release = '1.0.0';
+$module->release = '1.0.1';
+$module->version = 2012091500;
 $module->requires = 2010112400;
 $module->maturity = MATURITY_STABLE;
